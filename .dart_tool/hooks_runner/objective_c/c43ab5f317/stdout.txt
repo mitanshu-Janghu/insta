@@ -1,0 +1,53 @@
+Running `(cd /Users/mitanshujanghu/.pub-cache/hosted/pub.dev/objective_c-9.3.0/; ANDROID_HOME=/Users/mitanshujanghu/Library/Android/sdk TMPDIR=/var/folders/wd/p4lpq0cj3_jfvkr41r4x5_f00000gn/T/ PATH=/Applications/Xcode.app/Contents/SharedFrameworks/SwiftBuild.framework/Versions/A/PlugIns/SWBBuildService.bundle/Contents/PlugIns/SWBUniversalPlatformPlugin.bundle/Contents/Frameworks/SWBUniversalPlatform.framework/Resources:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/Users/mitanshujanghu/flutterdev/sdk/flutter/bin:/Users/mitanshujanghu/development/flutter/bin/:/Library/Frameworks/Python.framework/Versions/3.13/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/opt/pmk/env/global/bin:/Library/Apple/usr/bin:/Users/mitanshujanghu/mongodb-macos-aarch64-enterprise--8.2.1/bin:/Users/mitanshujanghu/development/flutter/bin HOME=/Users/mitanshujanghu /Users/mitanshujanghu/development/flutter/bin/cache/dart-sdk/bin/dart '--packages=/Users/mitanshujanghu/flutter dev/insta_reel_gen/insta/.dart_tool/package_config.json' '/Users/mitanshujanghu/flutter dev/insta_reel_gen/insta/.dart_tool/hooks_runner/objective_c/c43ab5f317/hook.dill' '--config=/Users/mitanshujanghu/flutter dev/insta_reel_gen/insta/.dart_tool/hooks_runner/objective_c/c43ab5f317/input.json' )`.
+INFO: 2026-03-24 00:07:18.500661: Running `/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang --version`.
+
+INFO: 2026-03-24 00:07:18.518708: Running `/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang --version`.
+
+INFO: 2026-03-24 00:07:18.533199: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.2.sdk -target arm64-apple-ios -mios-version-min=13 -c /Users/mitanshujanghu/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/include/dart_api_dl.c -fpic -I src -o /Users/mitanshujanghu/flutter dev/insta_reel_gen/insta/.dart_tool/hooks_runner/shared/objective_c/build/c43ab5f317/obj/src/include/dart_api_dl.c.o
+
+INFO: 2026-03-24 00:07:18.533606: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.2.sdk -target arm64-apple-ios -mios-version-min=13 -c /Users/mitanshujanghu/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/objective_c.c -fpic -I src -o /Users/mitanshujanghu/flutter dev/insta_reel_gen/insta/.dart_tool/hooks_runner/shared/objective_c/build/c43ab5f317/obj/src/objective_c.c.o
+
+INFO: 2026-03-24 00:07:18.533791: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.2.sdk -target arm64-apple-ios -mios-version-min=13 -x objective-c -fobjc-arc -c /Users/mitanshujanghu/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/input_stream_adapter.m -fpic -I src -o /Users/mitanshujanghu/flutter dev/insta_reel_gen/insta/.dart_tool/hooks_runner/shared/objective_c/build/c43ab5f317/obj/src/input_stream_adapter.m.o
+
+INFO: 2026-03-24 00:07:18.534050: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.2.sdk -target arm64-apple-ios -mios-version-min=13 -x objective-c -fobjc-arc -c /Users/mitanshujanghu/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/observer.m -fpic -I src -o /Users/mitanshujanghu/flutter dev/insta_reel_gen/insta/.dart_tool/hooks_runner/shared/objective_c/build/c43ab5f317/obj/src/observer.m.o
+
+.m.o
+
+INFO: 2026-03-24 00:07:18.534397: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.2.sdk -target arm64-apple-ios -mios-version-min=13 -x objective-c -fobjc-arc -c /Users/mitanshujanghu/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/objective_c_bindings_generated.m -fpic -I src -o /Users/mitanshujanghu/flutter dev/insta_reel_gen/insta/.dart_tool/hooks_runner/shared/objective_c/build/c43ab5f317/obj/src/objective_c_bindings_generated.m.o
+
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.2.sdk -target arm64-apple-ios -mios-version-min=13 -x objective-c -fobjc-arc -c /Users/mitanshujanghu/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/protocol.m -fpic -I src -o /Users/mitanshujanghu/flutter dev/insta_reel_gen/insta/.dart_tool/hooks_runner/shared/objective_c/build/c43ab5f317/obj/src/protocol.m.o
+
+INFO: 2026-03-24 00:07:18.581500: 
+INFO: 2026-03-24 00:07:18.581656: 
+INFO: 2026-03-24 00:07:18.581716: Generated /Users/mitanshujanghu/flutter dev/insta_reel_gen/insta/.dart_tool/hooks_runner/shared/objective_c/build/c43ab5f317/obj/src/objective_c.c.o
+INFO: 2026-03-24 00:07:18.581956: 
+INFO: 2026-03-24 00:07:18.581985: 
+INFO: 2026-03-24 00:07:18.581999: Generated /Users/mitanshujanghu/flutter dev/insta_reel_gen/insta/.dart_tool/hooks_runner/shared/objective_c/build/c43ab5f317/obj/src/include/dart_api_dl.c.o
+
+INFO: 2026-03-24 00:07:18.607525: 
+INFO: 2026-03-24 00:07:18.607578: 
+INFO: 2026-03-24 00:07:18.607592: Generated /Users/mitanshujanghu/flutter dev/insta_reel_gen/insta/.dart_tool/hooks_runner/shared/objective_c/build/c43ab5f317/obj/src/observer.m.o
+
+INFO: 2026-03-24 00:07:18.613851: 
+INFO: 2026-03-24 00:07:18.613932: 
+INFO: 2026-03-24 00:07:18.613954: Generated /Users/mitanshujanghu/flutter dev/insta_reel_gen/insta/.dart_tool/hooks_runner/shared/objective_c/build/c43ab5f317/obj/src/protocol.m.o
+
+INFO: 2026-03-24 00:07:18.736236: 
+INFO: 2026-03-24 00:07:18.736288: 
+INFO: 2026-03-24 00:07:18.736303: Generated /Users/mitanshujanghu/flutter dev/insta_reel_gen/insta/.dart_tool/hooks_runner/shared/objective_c/build/c43ab5f317/obj/src/ns_number.m.o
+
+INFO: 2026-03-24 00:07:18.742346: 
+INFO: 2026-03-24 00:07:18.742404: 
+INFO: 2026-03-24 00:07:18.742424: Generated /Users/mitanshujanghu/flutter dev/insta_reel_gen/insta/.dart_tool/hooks_runner/shared/objective_c/build/c43ab5f317/obj/src/objective_c.m.o
+
+INFO: 2026-03-24 00:07:18.744271: 
+INFO: 2026-03-24 00:07:18.744310: 
+INFO: 2026-03-24 00:07:18.744325: Generated /Users/mitanshujanghu/flutter dev/insta_reel_gen/insta/.dart_tool/hooks_runner/shared/objective_c/build/c43ab5f317/obj/src/input_stream_adapter.m.o
+
+INFO: 2026-03-24 00:07:18.771049: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -shared -Wl,-encryptable -undefined dynamic_lookup -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.2.sdk -target arm64-apple-ios -mios-version-min=13 /Users/mitanshujanghu/flutter dev/insta_reel_gen/insta/.dart_tool/hooks_runner/shared/objective_c/build/c43ab5f317/obj/src/include/dart_api_dl.c.o /Users/mitanshujanghu/flutter dev/insta_reel_gen/insta/.dart_tool/hooks_runner/shared/objective_c/build/c43ab5f317/obj/src/objective_c.c.o /Users/mitanshujanghu/flutter dev/insta_reel_gen/insta/.dart_tool/hooks_runner/shared/objective_c/build/c43ab5f317/obj/src/input_stream_adapter.m.o /Users/mitanshujanghu/flutter dev/insta_reel_gen/insta/.dart_tool/hooks_runner/shared/objective_c/build/c43ab5f317/obj/src/objective_c.m.o /Users/mitanshujanghu/flutter dev/insta_reel_gen/insta/.dart_tool/hooks_runner/shared/objective_c/build/c43ab5f317/obj/src/observer.m.o /Users/mitanshujanghu/flutter dev/insta_reel_gen/insta/.dart_tool/hooks_runner/shared/objective_c/build/c43ab5f317/obj/src/ns_number.m.o /Users/mitanshujanghu/flutter dev/insta_reel_gen/insta/.dart_tool/hooks_runner/shared/objective_c/build/c43ab5f317/obj/src/protocol.m.o /Users/mitanshujanghu/flutter dev/insta_reel_gen/insta/.dart_tool/hooks_runner/shared/objective_c/build/c43ab5f317/obj/src/objective_c_bindings_generated.m.o -o /Users/mitanshujanghu/flutter dev/insta_reel_gen/insta/.dart_tool/hooks_runner/shared/objective_c/build/c43ab5f317/objective_c.dylib
+
+INFO: 2026-03-24 00:07:18.802297: 
+INFO: 2026-03-24 00:07:18.802369: ld: warning: -undefined dynamic_lookup is deprecated on iOS
+
+INFO: 2026-03-24 00:07:18.802385: Generated /Users/mitanshujanghu/flutter dev/insta_reel_gen/insta/.dart_tool/hooks_runner/shared/objective_c/build/c43ab5f317/objective_c.dylib
+
